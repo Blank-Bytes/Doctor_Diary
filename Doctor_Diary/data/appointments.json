@@ -1,0 +1,20 @@
+[
+    {
+        "patient_number": "2",
+        "appointment_date": "2024-06-06",
+        "appointment_time": "21:10:38",
+        "description": ""
+    },
+    {
+        "patient_number": "1",
+        "appointment_date": "2024-06-06",
+        "appointment_time": "21:33:53",
+        "description": "Consultation\n"
+    },
+    {
+        "patient_number": "100",
+        "appointment_date": "2024-06-07",
+        "appointment_time": "00:16:04",
+        "description": "Consultation\n"
+    }
+]
